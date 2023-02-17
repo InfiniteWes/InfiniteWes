@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<div style="text-align:center">
-  
-  ![GIF](./giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhYzNhOTBkN2RkNDE3YTMxZTU1YzVkOGE0ODRlOTA2Yzg3YWJmYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Alt Text" />
+</p>
 
-</div>
 
 
 <!--
