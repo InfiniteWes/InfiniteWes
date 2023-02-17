@@ -1,8 +1,13 @@
-### Hi there 👋
+###                                                         Hi, I am Wesley Spangler
 
 <p align="center">
   <img src="./guyanime.gif" alt="Alt Text" />
 </p>
+
+## About me 🙋‍♂️
+🎒  Currently pursuing my bachelors in Computer Science and Engineering at Texas Tech University.
+🖱️  Currently working on personal desktop app : Origing Artist.
+🔥  Interesting Fact, I have been to 5 different countries.
 
 
 
