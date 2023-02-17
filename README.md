@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://animesher.com/entry/code-computer-html-197855/" alt="Alt Text" />
+  <img src="./animesher.com/entry/code-computer-html-197855" alt="Alt Text" />
 </p>
 
 
