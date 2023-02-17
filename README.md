@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhYzNhOTBkN2RkNDE3YTMxZTU1YzVkOGE0ODRlOTA2Yzg3YWJmYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+<div style="text-align:center">
+  
+  ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhYzNhOTBkN2RkNDE3YTMxZTU1YzVkOGE0ODRlOTA2Yzg3YWJmYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
 
 
 <!--
