@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://www.pinterest.com/pin/612911830518077557/.gif" alt="Alt Text" />
+  <img src="./guy.amime.gif" alt="Alt Text" />
 </p>
 
 
