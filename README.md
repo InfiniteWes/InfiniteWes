@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="./guy.anime.gif" alt="Alt Text" />
+  <img src="./guyanime.gif" alt="Alt Text" />
 </p>
 
 
