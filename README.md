@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="./animesher.com_code-computer-html-197855.jpg" alt="Alt Text" />
+  <img src="./animetyping.gif" alt="Alt Text" />
 </p>
 
 
