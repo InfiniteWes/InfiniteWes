@@ -1,4 +1,4 @@
-###                                                         Hi, I am Wesley Spangler
+###                                                         Hi, I am Wesley Spangler 👋
 
 <p align="center">
   <img src="./guyanime.gif" alt="Alt Text" />
