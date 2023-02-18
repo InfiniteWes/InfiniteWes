@@ -7,6 +7,7 @@
 ## About me 🙋‍♂️
 🎒  Currently pursuing my bachelors in Computer Science and Engineering at Texas Tech University. <br>
 🖱️  Currently working on personal desktop app : Origing Artist. <br>
+🖱️  Learning to cdode within HTML/CSS/Javascript, C, C++, Python. <br>
 🔥  Interesting Fact, I have been to 5 different countries. <br>
 
 
