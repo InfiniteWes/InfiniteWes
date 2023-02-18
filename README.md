@@ -5,9 +5,9 @@
 </p>
 
 ## About me 🙋‍♂️
-🎒  Currently pursuing my bachelors in Computer Science and Engineering at Texas Tech University.
-🖱️  Currently working on personal desktop app : Origing Artist.
-🔥  Interesting Fact, I have been to 5 different countries.
+🎒  Currently pursuing my bachelors in Computer Science and Engineering at Texas Tech University. <br>
+🖱️  Currently working on personal desktop app : Origing Artist. <br>
+🔥  Interesting Fact, I have been to 5 different countries. <br>
 
 
 
